@@ -5,6 +5,6 @@
 	}
 	function weighted_average(a, b)
 	{
-		return a*7 + b*3;
+		return a*9 + b*1;
 	}
 ?>
